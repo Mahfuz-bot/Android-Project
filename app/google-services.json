@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "664503736433",
+    "firebase_url": "https://happy-buy-9689c.firebaseio.com",
+    "project_id": "happy-buy-9689c",
+    "storage_bucket": "happy-buy-9689c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664503736433:android:132004786dc5beb63063d0",
+        "android_client_info": {
+          "package_name": "com.example.happybuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664503736433-qef36nf0918ocb4re1v4abqjibvcc1jj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6CRikakgkkOoYDLu2IM09JL-6FNTxiSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664503736433-qef36nf0918ocb4re1v4abqjibvcc1jj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
